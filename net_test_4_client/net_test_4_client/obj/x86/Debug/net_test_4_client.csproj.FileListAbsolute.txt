@@ -1,0 +1,16 @@
+c:\users\dell\documents\visual studio 2010\Projects\net_test_4_client\net_test_4_client\bin\Debug\net_test_4_client.exe
+c:\users\dell\documents\visual studio 2010\Projects\net_test_4_client\net_test_4_client\bin\Debug\net_test_4_client.pdb
+c:\users\dell\documents\visual studio 2010\Projects\net_test_4_client\net_test_4_client\obj\x86\Debug\ChatClient.FClient.resources
+c:\users\dell\documents\visual studio 2010\Projects\net_test_4_client\net_test_4_client\obj\x86\Debug\net_test_4_client.Properties.Resources.resources
+c:\users\dell\documents\visual studio 2010\Projects\net_test_4_client\net_test_4_client\obj\x86\Debug\net_test_4_client.csproj.GenerateResource.Cache
+c:\users\dell\documents\visual studio 2010\Projects\net_test_4_client\net_test_4_client\obj\x86\Debug\net_test_4_client.exe
+c:\users\dell\documents\visual studio 2010\Projects\net_test_4_client\net_test_4_client\obj\x86\Debug\net_test_4_client.pdb
+C:\Users\dell\documents\visual studio 2010\Projects\net_test_4_client\net_test_4_client\obj\x86\Debug\net_test_4_client.csprojResolveAssemblyReference.cache
+C:\Users\RTT\Desktop\net_test_4_client\net_test_4_client\obj\x86\Debug\net_test_4_client.exe
+C:\Users\RTT\Desktop\net_test_4_client\net_test_4_client\obj\x86\Debug\net_test_4_client.pdb
+C:\Users\RTT\Desktop\net_test_4_client\net_test_4_client\bin\Debug\net_test_4_client.exe
+C:\Users\RTT\Desktop\net_test_4_client\net_test_4_client\bin\Debug\net_test_4_client.pdb
+C:\Users\RTT\Desktop\net_test_4_client\net_test_4_client\obj\x86\Debug\net_test_4_client.csprojResolveAssemblyReference.cache
+C:\Users\RTT\Desktop\net_test_4_client\net_test_4_client\obj\x86\Debug\ChatClient.FClient.resources
+C:\Users\RTT\Desktop\net_test_4_client\net_test_4_client\obj\x86\Debug\net_test_4_client.Properties.Resources.resources
+C:\Users\RTT\Desktop\net_test_4_client\net_test_4_client\obj\x86\Debug\net_test_4_client.csproj.GenerateResource.Cache
